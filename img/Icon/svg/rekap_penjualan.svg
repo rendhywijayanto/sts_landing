@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3045.405 1180.174 100 100">
+    <defs>
+        <style>
+            .cls-1{opacity:.344}.cls-2{fill:#fff}.cls-3{fill:#e1e6e9}.cls-4{fill:#2ea2db}.cls-5{fill:#193651}
+        </style>
+    </defs>
+    <g id="rekap_penjualan" transform="translate(3045.405 1180.174)">
+        <g id="Group_9079" data-name="Group 9079">
+            <circle id="Ellipse_3371" cx="50" cy="50" r="50" class="cls-1" data-name="Ellipse 3371"/>
+            <circle id="Ellipse_3372" cx="45.906" cy="45.906" r="45.906" class="cls-2" data-name="Ellipse 3372" transform="translate(4.094 4.094)"/>
+        </g>
+        <g id="list_1_" data-name="list (1)" transform="translate(19.298 23.167)">
+            <path id="Rectangle_3624" d="M0 0h38.937v51.913H0z" class="cls-2" data-name="Rectangle 3624" transform="translate(13.807 .841)"/>
+            <path id="Rectangle_3625" d="M0 0h32.239v45.215H0z" class="cls-3" data-name="Rectangle 3625" transform="translate(17.151 4.185)"/>
+            <circle id="Ellipse_3419" cx="13.895" cy="13.895" r="13.895" class="cls-2" data-name="Ellipse 3419" transform="translate(.83 4.527)"/>
+            <path id="Path_11300" d="M41.372 79.219a10.315 10.315 0 0 1-3.52-.587 10.557 10.557 0 0 1 3.52-20.515 10.314 10.314 0 0 1 3.52.587 10.557 10.557 0 0 1-3.52 20.515z" class="cls-4" data-name="Path 11300" transform="translate(-26.646 -50.246)"/>
+            <path id="Path_11301" d="M10.164 275.867a3.059 3.059 0 0 1-1.839-3.767l3.6-10.3a3.059 3.059 0 0 1 3.765-1.839 3.059 3.059 0 0 1 1.839 3.765l-3.6 10.376a2.879 2.879 0 0 1-3.765 1.765z" class="cls-2" data-name="Path 11301" transform="translate(-7.074 -224.628)"/>
+            <g id="Group_5983" data-name="Group 5983">
+                <path id="Path_11302" d="M9.825 35l.841-2.425a10.157 10.157 0 0 0 2.347.5v20.511h40.6V0H13v3.765a14.733 14.733 0 0 0-3.931 28.22l-.837 2.425a3.769 3.769 0 0 0-4.019 2.513L.526 47.22a3.838 3.838 0 0 0 2.347 4.86 3.875 3.875 0 0 0 4.86-2.347l3.6-10.3A3.746 3.746 0 0 0 9.825 35zm-.087 3.94l-3.6 10.209a2.264 2.264 0 0 1-2.767 1.34 2.2 2.2 0 0 1-1.251-2.77l3.6-10.3a2.305 2.305 0 0 1 2.767-1.34 2.32 2.32 0 0 1 1.251 2.858zm.674-8.213a13.056 13.056 0 0 1 4.351-25.369 12.925 12.925 0 0 1 4.352.753 13.231 13.231 0 0 1 7.95 16.662 13.219 13.219 0 0 1-16.653 7.951zM19.7 4.518a24.865 24.865 0 0 0-5.026-.841V1.672h37.258v50.241H14.676V33.158h.087a14.8 14.8 0 0 0 13.9-9.8A14.919 14.919 0 0 0 19.7 4.518z" class="cls-5" data-name="Path 11302" transform="translate(-.037)"/>
+                <path id="Rectangle_3626" d="M0 0h1.672v1.672H0z" class="cls-5" data-name="Rectangle 3626" transform="translate(34.654 36.923)"/>
+                <path id="Rectangle_3627" d="M0 0h1.672v1.672H0z" class="cls-5" data-name="Rectangle 3627" transform="translate(41.852 36.923)"/>
+                <path id="Rectangle_3628" d="M0 0h1.672v1.672H0z" class="cls-5" data-name="Rectangle 3628" transform="translate(34.654 14.99)"/>
+                <path id="Rectangle_3629" d="M0 0h1.672v1.672H0z" class="cls-5" data-name="Rectangle 3629" transform="translate(41.852 14.99)"/>
+                <path id="Rectangle_3630" d="M0 0h1.672v1.672H0z" class="cls-5" data-name="Rectangle 3630" transform="translate(34.654 25.952)"/>
+                <path id="Rectangle_3631" d="M0 0h1.672v1.672H0z" class="cls-5" data-name="Rectangle 3631" transform="translate(41.852 25.952)"/>
+                <path id="Rectangle_3632" d="M0 0h12.81v1.672H0z" class="cls-5" data-name="Rectangle 3632" transform="translate(32.64 9.544)"/>
+                <path id="Rectangle_3633" d="M0 0h12.81v1.672H0z" class="cls-5" data-name="Rectangle 3633" transform="translate(32.64 20.515)"/>
+                <path id="Rectangle_3634" d="M0 0h12.81v1.672H0z" class="cls-5" data-name="Rectangle 3634" transform="translate(32.64 31.398)"/>
+                <path id="Rectangle_3635" d="M0 0h12.81v1.672H0z" class="cls-5" data-name="Rectangle 3635" transform="translate(32.64 42.369)"/>
+                <path id="Path_11303" d="M154.441 292l-3.012-3.021 1.173-1.173 1.839 1.848 4.693-4.693 1.165 1.173z" class="cls-5" data-name="Path 11303" transform="translate(-130.924 -246.366)"/>
+            </g>
+        </g>
+    </g>
+</svg>

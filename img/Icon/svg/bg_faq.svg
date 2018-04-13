@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1367.699 727.1">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #63add7;
+      }
+
+      .cls-1 {
+        opacity: 0.3;
+      }
+    </style>
+  </defs>
+  <g id="bg_faq" transform="translate(0 -2291.9)">
+    <path id="Path_14719" data-name="Path 14719" class="cls-1" d="M0,763.9H1367.3s4.767,95.49-18.541,138.486-78.538,72.443-78.538,72.443L160.006,1413.186a269.554,269.554,0,0,1-72.539,20.533c-40,5.133-87.467,0-87.467,0Z" transform="translate(0 1583)"/>
+    <path id="Path_14720" data-name="Path 14720" class="cls-2" d="M0,763.9H1367.3s4.767,95.49-18.541,138.486-78.538,72.443-78.538,72.443L160.006,1413.186a269.554,269.554,0,0,1-72.539,20.533c-40,5.133-87.467,0-87.467,0Z" transform="translate(0 1528)"/>
+  </g>
+</svg>

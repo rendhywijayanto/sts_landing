@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 5">
+    <defs>
+        <style>
+            .cls-1{fill:#63add7}
+        </style>
+    </defs>
+    <rect id="partner-border" width="60" height="5" class="cls-1" rx="2.5"/>
+</svg>

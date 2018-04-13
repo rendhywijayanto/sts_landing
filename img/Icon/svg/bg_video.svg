@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="3991.447 144.671 746.223 528.737">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #78b3d5;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #88c4e6;
+      }
+
+      .cls-2 {
+        opacity: 0.503;
+      }
+
+      .cls-3 {
+        opacity: 0.496;
+      }
+    </style>
+  </defs>
+  <g id="stoksis_showcase" transform="translate(3308.956 8.671)">
+    <circle id="Ellipse_6536" data-name="Ellipse 6536" class="cls-1" cx="169.397" cy="169.397" r="169.397" transform="translate(682.491 325.943)"/>
+    <circle id="Ellipse_6537" data-name="Ellipse 6537" class="cls-2" cx="169.397" cy="169.397" r="169.397" transform="translate(1089.92 136)"/>
+    <circle id="Ellipse_6538" data-name="Ellipse 6538" class="cls-1" cx="58.469" cy="58.469" r="58.469" transform="translate(945.659 181.081)"/>
+    <circle id="Ellipse_6539" data-name="Ellipse 6539" class="cls-3" cx="58.469" cy="58.469" r="58.469" transform="translate(1057.679 486.051)"/>
+  </g>
+</svg>
